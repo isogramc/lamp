@@ -1,5 +1,6 @@
 <html>
 <?PHP
-    echo "I am a WEB developer"
+    host_info;
+    echo "php docker script"
 ?>
 </html>
